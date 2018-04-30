@@ -1,0 +1,44 @@
+{
+    "name": "vscode-one-variants",
+    "displayName": "Atom One Dark Variants",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "m-thorsen",
+    "license": "MIT",
+    "galleryBanner": {
+		"color": "#282C34",
+		"theme": "dark"
+	},
+    "engines": {
+       "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "atom",
+        "theme",
+        "dark",
+        "one dark"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Variants",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneDark.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/m-thorsen/vscode-one-variants/issues"
+    },
+    "homepage": "https://github.com/m-thorsen/vscode-one-variants",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/m-thorsen/vscode-one-variants"
+    },
+    "badges": [
+	]
+}
