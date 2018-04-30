@@ -15,19 +15,14 @@
     "categories": [
         "Themes"
     ],
-    "keywords": [
-        "atom",
-        "theme",
-        "dark",
-        "one dark"
-    ],
-    "icon": "icon.png",
+    "keywords": [],
+    "icon": "",
     "contributes": {
         "themes": [
             {
                 "label": "One Variants",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneDark.json"
+                "path": "./themes/theme-one-dark.json"
             }
         ]
     },
