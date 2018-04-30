@@ -1,0 +1,9 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "author": "mt",
+    "name": "one-neutral",
+    "include": "./tokens-onedark.json",
+    "colors": {
+        "statusBar.background": "#303030"
+    }
+}

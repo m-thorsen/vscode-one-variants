@@ -15,3 +15,6 @@ Slightly tweaked version of the original theme
 ### One Dark Adapta
 Workbench colors inspired by the Adapta GTK theme:  
 https://github.com/adapta-project/adapta-gtk-theme
+
+### One Dark Neutral
+Neutral gray workbench colors

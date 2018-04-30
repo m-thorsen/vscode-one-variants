@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/color-theme",
     "author": "mt",
     "name": "one-atom",
-    "include": "./tokencolors.json",
+    "include": "./tokens-onedark.json",
 	"colors": {
         "activityBar.background": "#21252B",
         "editorIndentGuide.background": "#3C4049",

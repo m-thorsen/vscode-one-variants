@@ -28,6 +28,11 @@
                 "label": "One Dark Adapta",
                 "uiTheme": "vs-dark",
                 "path": "./themes/one-adapta.json"
+            },
+            {
+                "label": "One Dark Neutral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-neutral.json"
             }
         ]
     },
