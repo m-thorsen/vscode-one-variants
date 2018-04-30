@@ -20,12 +20,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Atom",
+                "label": "One Dark Atom",
                 "uiTheme": "vs-dark",
-                "path": "./themes/one-dark.json"
+                "path": "./themes/one-atom.json"
             },
             {
-                "label": "One Adapta",
+                "label": "One Dark Adapta",
                 "uiTheme": "vs-dark",
                 "path": "./themes/one-adapta.json"
             }

@@ -1,10 +1,10 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "author": "mt",
-    "name": "onedark",
+    "name": "one-atom",
     "include": "./tokencolors.json",
 	"colors": {
-        "activityBar.background": "#333842",
+        "activityBar.background": "#21252B",
         "editorIndentGuide.background": "#3C4049",
         "dropdown.background": "#353b45",
         "activityBar.foreground": "#D7DAE0",
