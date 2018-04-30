@@ -20,9 +20,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Variants",
+                "label": "One Atom",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme-one-dark.json"
+                "path": "./themes/one-dark.json"
+            },
+            {
+                "label": "One Adapta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-adapta.json"
             }
         ]
     },
