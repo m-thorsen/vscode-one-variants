@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/color-theme",
     "author": "mt",
     "name": "one-adapta",
-    "include": "./tokencolors.json",
+    "include": "./tokens-onedark.json",
     "colors": {
         "editorHoverWidget.border": "#1e272c",
         "editorSuggestWidget.border": "#1e272c",

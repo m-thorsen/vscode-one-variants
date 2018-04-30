@@ -465,7 +465,6 @@
                 "meta.separator"
             ],
             "settings": {
-                "background": "#373B41",
                 "foreground": "#ABB2BF"
             }
         },
@@ -484,7 +483,6 @@
                 "underline"
             ],
             "settings": {
-                "text-decoration": "underline"
             }
         },
         {
@@ -503,7 +501,6 @@
             ],
             "settings": {
                 "foreground": "#523D14",
-                "background": "#E0C285"
             }
         },
         {
@@ -512,8 +509,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "white",
-                "background": "#E05252"
+                "foreground": "#FFF",
             }
         },
         {
@@ -661,7 +657,6 @@
                 "source.gfm markup"
             ],
             "settings": {
-                "-webkit-font-smoothing": "auto"
             }
         },
         {
@@ -806,7 +801,6 @@
                 "source.ruby constant.other.symbol > punctuation"
             ],
             "settings": {
-                "foreground": "inherit"
             }
         },
         {
