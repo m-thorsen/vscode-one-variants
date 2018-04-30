@@ -4,6 +4,12 @@
     "name": "one-neutral",
     "include": "./tokens-onedark.json",
     "colors": {
-        "statusBar.background": "#303030"
+        "statusBar.background": "#303030",
+        "sideBar.background": "#303030",
+        "activityBar.background": "#303030",
+        "editorGroupHeader.tabsBackground": "#1e1e1e",
+        "tab.inactiveBackground": "#1e1e1e",
+        "tab.inactiveForeground": "#777777",
+        "tab.activeBorder": "#007acc"
     }
 }
